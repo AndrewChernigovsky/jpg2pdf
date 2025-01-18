@@ -1,1 +1,2 @@
-# jpg2pdf
+# start
+# py init.py
